@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "webpackServerPort": 19006,
+  "expoServerNgrokUrl": "https://qr-gtk.anonymous.my-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.qr-gtk.anonymous.my-app.exp.direct",
+  "ngrokPid": 39608,
+  "packagerPid": null
+}
